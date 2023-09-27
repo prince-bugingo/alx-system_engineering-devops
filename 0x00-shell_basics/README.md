@@ -1,1 +1,1 @@
-shell basics read me
+shell basics
